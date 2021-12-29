@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@electron-forge/publisher-github": "^6.0.0-beta.61"
+  }
+}

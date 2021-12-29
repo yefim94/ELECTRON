@@ -1,0 +1,26 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yefim94/electronJS"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "yefim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yefim94/electronJS/issues"
+  },
+  "homepage": "https://github.com/yefim94/electronJS#readme",
+  "devDependencies": {
+    "electron": "^16.0.5"
+  }
+}
